@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Amin Sadruddin!  
 
 ## 👨‍💻 About Me  
-- 💡 **Passionate About**: Data Analysis, Data Engineering, and uncovering insights through Python, SQL, and Pandas.  
+- 💡 **Passionate About**: Data Analysis, Data Engineering, and uncovering insights through Python, SQL, and Airflow.  
 - 🌱 **Currently Learning**: Advanced Python, SQL optimization, and Big Data technologies.  
 - 🏀 **Interests**: Sports, social work, and exploring the intersections of technology and community development.  
 - 🎯 **Open To**: Challenging projects, collaboration opportunities, and innovative problem-solving.  
